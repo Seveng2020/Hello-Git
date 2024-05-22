@@ -1,1 +1,1 @@
-pring ("HelloGit2")
+print ("HelloGit2")
